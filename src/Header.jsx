@@ -1,7 +1,7 @@
 // Header.js
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Page1 from "./Page1";
+import Page1 from "./CoffeeList";
 import Home from "./Home";
 import Transaksi from "./Transaksi"
 import Bruh from "./bruh";
